@@ -28,7 +28,6 @@ body {
   overflow: hidden;
   padding: 0px;
   margin: 0px;
-  background-color: var(--Darkcyan);
   background-image: url(./images/bg-pattern-top.png),
     url(./images/bg-pattern-bottom.png);
   background-position-x: left, right;
